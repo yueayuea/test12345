@@ -14,3 +14,4 @@ except ValueError:
         print('成績錯誤!重新輸入')
 
 print('感謝測試')
+print('本句測試，查驗結果')
